@@ -1,0 +1,2 @@
+# ignore acf plugin files in 'includes/'
+includes/acf/
