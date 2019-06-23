@@ -89,7 +89,7 @@ get_header(); ?>
 
 												if( get_row_layout() == 'tabs_block_layout' ) :
 
-													include WP_PLUGIN_DIR . '/flex-builderblocks/tabs-block.php';
+													include WP_PLUGIN_DIR . '/flex-builder/blocks/tabs-block.php';
 
 												endif;
 
