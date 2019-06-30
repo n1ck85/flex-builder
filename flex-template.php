@@ -95,13 +95,13 @@ get_header(); ?>
 
 												if( get_row_layout() == 'gallery_block_layout' ) :
 
-													include WP_PLUGIN_DIR . '/flex-builderblocks/gallery-block.php';
+													include WP_PLUGIN_DIR . '/flex-builder/blocks/gallery-block.php';
 
 												endif;
 
 												if( get_row_layout() == 'plain_text_block_layout' ) :
 
-													include WP_PLUGIN_DIR . '/flex-builderblocks/plain-text-block.php';
+													include WP_PLUGIN_DIR . '/flex-builder/blocks/plain-text-block.php';
 
 												endif;
 
